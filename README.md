@@ -32,5 +32,5 @@ private struct Demo: View {
 }
 ```
 
-A question about how to use model objects using `@Observable`.
+A question about how to use model objects using `@Observable`.  
 https://forums.developer.apple.com/forums/thread/739163
